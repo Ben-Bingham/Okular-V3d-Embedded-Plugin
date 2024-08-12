@@ -1,0 +1,7 @@
+### Okular V3d Embedded Plugin
+
+This is a plugin for okular that allows you to open and interact with pdf
+files that have V3d files embedded into them
+
+## Install
+* Run `install.sh` with root permissions
